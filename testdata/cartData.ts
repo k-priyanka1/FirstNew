@@ -22,7 +22,7 @@ export const buttons ={
     backbtn : "Continue Shopping" ,
     finishbtn: "Finish",
     homebtn: "Back Home",
-    continueBTN : 'Continue'
+    continueBTN : "Continue"
 
 }
 export const filters = {
